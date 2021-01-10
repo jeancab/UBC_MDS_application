@@ -6,7 +6,7 @@ Please find my application to the Postdoctoral Teaching and Learning Fellow–UB
 * Cover letter
 * Teaching Statement
 * List of reference
-* Sample teaching materials
+* Sample teaching materials (please note that many of the course GitHub repos that I am working on are set private by UMich, so I can only share a sample teaching notebook instead of the entire repo)
 
 Sincerely,
  
