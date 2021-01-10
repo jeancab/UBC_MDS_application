@@ -7,3 +7,11 @@ Please find my application to the Postdoctoral Teaching and Learning Fellow–UB
 * Teaching Statement
 * List of reference
 * Sample teaching materials
+
+Sincerely,
+ 
+Quan Nguyen, Ph.D.  
+University of Michigan  
+quanngu@umich.edu  
+https://quan-nguyen.com  
+
