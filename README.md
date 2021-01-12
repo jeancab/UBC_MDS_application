@@ -4,7 +4,7 @@ Dear UBC MDS search members:
 Please find my application to the Postdoctoral Teaching and Learning Fellow–UBC Master of Data Science program attached.
 * [CV](https://github.com/quan3010/UBC_MDS_application/blob/main/CV_Quan%20Nguyen_teaching.pdf)
 * [Cover letter](https://github.com/quan3010/UBC_MDS_application/blob/main/cover_letter.md) 
-* [Teaching Statement](https://github.com/quan3010/UBC_MDS_application/blob/main/SIADS505_W1_Regex_Worked_Example%20(3).ipynb)
+* [Teaching Statement](https://github.com/quan3010/UBC_MDS_application/blob/main/teaching_statement.md)
 * [List of reference](https://github.com/quan3010/UBC_MDS_application/blob/main/references.md)
 * Sample teaching materials: [A sample notebook](https://github.com/quan3010/UBC_MDS_application/blob/main/SIADS505_W1_Regex_Worked_Example%20(3).ipynb) and a [lesson plan](https://github.com/quan3010/UBC_MDS_application/blob/main/lesson_plan.md)
 
