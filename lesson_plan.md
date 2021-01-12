@@ -1,5 +1,6 @@
 <img src="https://brand.umich.edu/assets/brand/style-guide/logo-guidelines/U-M_Logo-Horizontal-Hex.png" width="400" align="left"/><br>  
 # SIADS 680: Learning Analytics
+Note: This course is still under development (to be launched in March 2021).
 ## Course Overview
 SIADS 680 provides an overview of a key application domain for data scientists—education. In this course students will examine the application of data science as a means to better understand and improve learning. Specifically, students will think critically about the ways in which data scientists can support research and improvement in educational organizations of all types. Anchored in the fields of learning analytics and educational data mining, this course analyzes the unique opportunities and challenges associated with applying data science methods to data stemming from schools, universities, and a myriad of learning opportunities. The course will cover the history of learning analytics, typical data and methods used, the importance of measurement, and the implementation of learning analytics products. 
 ## Prerequesites
@@ -48,26 +49,3 @@ In this course, you will be working with a wide variety of data about students a
 
 
 
-### Academic Integrity/Code of Conduct
-Refer to the Academic and Professional Integrity section of the UMSI Student Handbook. (access to Student Orientation course required).
-
-### Accommodations
-Refer to the Accommodations for Students with Disabilities section of the UMSI Student Handbook (access to the Student Orientation course required). Use the Student Intake Form to begin the process of working with the University’s Office of Services for Students with Disabilities.
-
-### Accessibility
-Refer to the Screen reader configuration for Jupyter Notebook Content document to learn accessibility tips for Jupyter Notebooks.
-
-### Library Access
-Refer to the U-M Library’s information sheet on accessing library resources from off-campus. For more information regarding library support services, please refer to the U-M Library Resources section of the UMSI Student Handbook (access to the Student Orientation course required).
-
-### Student Mental Health
-Refer to the University’s Resources for Stress and Mental Health website for a listing of resources for students.
-
-### Student Services
-Refer to the Introduction to UMSI Student Life section of the UMSI Student Handbook (access to the Student Orientation course required).
-
-Technology Tips
-Recommended Technology
-This program requires Jupyter Notebook for completion of problem sets and Adobe or other PDF viewer for reading articles.
-Working Offline
-While the Coursera platform has an integrated Jupyter Notebook system, you can work offline on your own computer by installing Python 3.5+ and the Jupyter software packages, including pyspark. For more details, consult the Jupyter Notebook FAQ.
