@@ -45,3 +45,29 @@ In this course, you will be working with a wide variety of data about students a
 | 2    	| Building prediction models of student success    	| Which students are likely to dropout or fail? Can we build an early at-risk detection model for in time interventions? 	| scikit-learn                           	| 25%    	|
 | 3    	| Investigating the biases of prediction models    	| Are the prediction models biased toward certain population of students? Are the data biased?                           	| matplotlib, scikit-learn               	| 25%    	|
 | 4    	| Building a learning analytics dashboard          	| How can we communicate learning analytics insights to a non-technical audience (instructors, students, managers)?      	| jupyter-dash                           	| 25%    	|
+
+
+
+### Academic Integrity/Code of Conduct
+Refer to the Academic and Professional Integrity section of the UMSI Student Handbook. (access to Student Orientation course required).
+
+### Accommodations
+Refer to the Accommodations for Students with Disabilities section of the UMSI Student Handbook (access to the Student Orientation course required). Use the Student Intake Form to begin the process of working with the University’s Office of Services for Students with Disabilities.
+
+### Accessibility
+Refer to the Screen reader configuration for Jupyter Notebook Content document to learn accessibility tips for Jupyter Notebooks.
+
+### Library Access
+Refer to the U-M Library’s information sheet on accessing library resources from off-campus. For more information regarding library support services, please refer to the U-M Library Resources section of the UMSI Student Handbook (access to the Student Orientation course required).
+
+### Student Mental Health
+Refer to the University’s Resources for Stress and Mental Health website for a listing of resources for students.
+
+### Student Services
+Refer to the Introduction to UMSI Student Life section of the UMSI Student Handbook (access to the Student Orientation course required).
+
+Technology Tips
+Recommended Technology
+This program requires Jupyter Notebook for completion of problem sets and Adobe or other PDF viewer for reading articles.
+Working Offline
+While the Coursera platform has an integrated Jupyter Notebook system, you can work offline on your own computer by installing Python 3.5+ and the Jupyter software packages, including pyspark. For more details, consult the Jupyter Notebook FAQ.
