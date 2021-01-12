@@ -16,7 +16,7 @@ After doing my research on the UBC MDS program and through conversations with Dr
 
 I was drawn to UBC MDS by the dedicated team of instructors with the mission to advocate for ethical, responsible, and reproducible use of data science. I plan to play an active role in expanding and updating the MDS curriculum in collaboration with MDS faculties by developing cutting-edge learning materials for data science education (e.g. bookdown, blogs, open syllabi, and lecture videos). In addition, I am interested in collecting data on how people learn data science (e.g. log-files from Jupyter notebook) and extracting insights to improve the learning experience of our students. 
 
-I appreciate your consideration and look forward to hearing from you.
+I appreciate your consideration and look forward to hearing from you.  
 Please find my CV, list of references, and teaching statement attached to this application. 
 
 Sincerely,
