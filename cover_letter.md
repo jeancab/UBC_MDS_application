@@ -5,7 +5,7 @@ School of Information
 University of Michigan    
 quanngu@umich.edu    
 +1 743-968-1009   
-January 10th, 2021   
+January 16th, 2021   
 
 Dear Data Science Teaching Fellow Search Committee:
 
